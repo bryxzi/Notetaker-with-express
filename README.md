@@ -6,10 +6,10 @@ Note Taker is an application that allows users to write and save notes. The back
 
 ## Deployment
 Link to Github Repository: https://github.com/bryxzi/Notetaker-with-express
-Link to Heroku Deployment:
+Link to Heroku Deployment: https://notetaker-with-express.herokuapp.com
 
 ## Demo
-![notetaking dashboard](./Assets/images/dashboard.png)
+![notetaking dashboard](/Notetaker-with-express/Develop/public/assets/images/dashboard.png)
 
 ## Technologies Used
 * Node.js
