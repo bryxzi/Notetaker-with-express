@@ -9,7 +9,7 @@ Link to Github Repository: https://github.com/bryxzi/Notetaker-with-express
 Link to Heroku Deployment: https://notetaker-with-express.herokuapp.com
 
 ## Demo
-![notetaking dashboard](/Develop/public/assets/images/dashboard.png)
+![notetaking dashboard](/public/assets/images/dashboard.png)
 
 ## Technologies Used
 * Node.js
