@@ -19,7 +19,7 @@ Link to Heroku Deployment:
 
 ## Usage
 1. To start the application, run node server.js in your terminal.
-2. Open your web browser and navigate to http://localhost:3000.
+2. Open your web browser and navigate to http://localhost:3001.
 3. Click the "Get Started" button to go to the notes page.
 4. To create a new note, enter a title and text in the right-hand column and click the save icon in the top right corner.
 5. To view an existing note, click on its title in the left-hand column.
