@@ -1,13 +1,9 @@
 const express = require('express');
 const fs = require('fs');
-const uuid = require('uuid');
+const uuid = require('./helpers/uuid');
 
 const app = express();
-const PORT = process.send.PORT || 3001;
-
-
-// Define Middleware
-const errorHandler = require('./middleware/errorHandler');
+const PORT = process.env.PORT || 3001;
 
 // Define Routes
 const apiRoutes = require('./routes/apiRoutes');
